@@ -1,6 +1,6 @@
 ### Hello there! 
 
-I am currently a Software Engineer @thefarmersdog and I enjoy all things regarding performance and creative coding.
+I am currently a Software Engineer @meltwater and I enjoy doing things. What those things are change probably every 3 months or so.
 
 [![Me GitHub stats](https://github-readme-stats.vercel.app/api?username=jarrodthibodeau)](https://github.com/anuraghazra/github-readme-stats)
 
